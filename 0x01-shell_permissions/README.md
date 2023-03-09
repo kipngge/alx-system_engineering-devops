@@ -8,3 +8,4 @@ script 6 - multiple permissions
 script 7 - everybody
 script 8 - James Bond
 script 9 - John Doe
+script 10 - mirror permissions

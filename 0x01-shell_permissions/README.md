@@ -10,3 +10,4 @@ script 8 - James Bond
 script 9 - John Doe
 script 10 - mirror permissions
 script 11 - directories permissions
+script 12 - directory permissions

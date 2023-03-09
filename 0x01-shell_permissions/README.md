@@ -6,3 +6,4 @@ script 4 - empty
 script 5 - execute
 script 6 - multiple permissions
 script 7 - everybody
+script 8 - James Bond
